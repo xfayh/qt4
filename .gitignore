@@ -18,6 +18,7 @@
 
 *.dylib
 
+*.exe
 
 
 # Qt-es
